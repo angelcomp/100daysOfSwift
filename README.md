@@ -17,3 +17,14 @@ Authored by:
 - Constants
 - Type annotations
  
+### Day 2:
+- Arrays
+- Sets
+- Tuples
+- Arrays vs Sets vs Tuples
+- Dictionaries
+- Dictionary default values
+- Creating empty collections
+- Enumarations
+- Enum associated values
+- Enum raw values
