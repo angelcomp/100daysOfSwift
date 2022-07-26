@@ -2,7 +2,7 @@
 
 import Foundation
 
-//- MARK: DAY TWO - Complex data types
+//: DAY TWO - Complex data types
 
 //-> ARRAYS
 //if you want to store many values you will often use arrays!
