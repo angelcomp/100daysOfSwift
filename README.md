@@ -28,3 +28,14 @@ Authored by:
 - Enumarations
 - Enum associated values
 - Enum raw values
+
+### Day 3:
+- Arithmetic Operators
+- Operator overloading
+- Compound assignment operators
+- Comparison operators
+- Conditions
+- Combining conditions
+- The ternary operator
+- Switch statements
+- Range operators
