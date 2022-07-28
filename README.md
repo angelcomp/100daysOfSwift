@@ -64,3 +64,19 @@ Authored by:
    - Skipping items
    - Infinite loops
 </details>
+
+## Day 5: Functions
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Writing functions
+   - Accepting parameters
+   - Returning values
+   - Parameter labels
+   - Omitting parameter labels
+   - Default parameters
+   - Variadic functions
+   - Writing throwing functions
+   - Running throwing functions
+   - inout parameters
+</details>
