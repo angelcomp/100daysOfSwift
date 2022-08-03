@@ -80,3 +80,14 @@ Authored by:
    - Running throwing functions
    - inout parameters
 </details>
+
+## Day 6: Closures
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Creating basic closures
+   - Accepting parameters in a closure
+   - Returning values from a closure
+   - Closures as parameters
+   - Trailing closure syntax
+</details>

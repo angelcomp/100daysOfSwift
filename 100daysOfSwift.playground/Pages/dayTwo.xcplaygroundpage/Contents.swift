@@ -64,7 +64,7 @@ height["Lauren"]
 //if we tried reading the height for Charlotte, we’d get back nil, meaning that Swift doesn’t have a value for that key:
 height["Charlotte"]
 
-//We can fix this by giving the dictionary a default value of “Unknown”, so that when no height is found for Charlotte we get back 0 rather than nil:
+//We can fix this by giving the dictionary a default value of “0”, so that when no height is found for Charlotte we get back 0 rather than nil:
 
 height["Charlotte", default: 0]
 
