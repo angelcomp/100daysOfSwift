@@ -103,3 +103,16 @@ Authored by:
    - Returning closures from functions
    - Capturing values
 </details>
+
+## Day 8: Structs, part one
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Creating your own structs
+   - Computed properties
+   - Property observers
+   - Methods
+   - Mutating methods
+   - Properties and methods of strings
+   - Properties and methods of arrays
+</details>
