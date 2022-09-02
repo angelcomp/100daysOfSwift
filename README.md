@@ -116,3 +116,14 @@ Authored by:
    - Properties and methods of strings
    - Properties and methods of arrays
 </details>
+
+## Day 8: Structs, part two
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Initializers
+   - Referring to the current instance
+   - Lazy properties
+   - Static properties and methods
+   - Access control
+</details>
