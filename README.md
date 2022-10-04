@@ -117,7 +117,7 @@ Authored by:
    - Properties and methods of arrays
 </details>
 
-## Day 8: Structs, part two
+## Day 9: Structs, part two
   <details>
   <summary>Click to see the topics!</summary>
   
@@ -126,4 +126,17 @@ Authored by:
    - Lazy properties
    - Static properties and methods
    - Access control
+</details>
+
+## Day 10: Classes
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Creating your own classes
+   - Class inheritance
+   - Overriding methods
+   - Final classes
+   - Copying objects
+   - Deinitializers
+   - Mutability
 </details>
