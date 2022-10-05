@@ -140,3 +140,14 @@ Authored by:
    - Deinitializers
    - Mutability
 </details>
+
+## Day 11: Protocols
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Protocols
+   - Protocol inheritance
+   - Extensions
+   - Protocol extensions
+   - Protocol-oriented programming
+</details>
