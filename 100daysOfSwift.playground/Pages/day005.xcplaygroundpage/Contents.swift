@@ -78,7 +78,7 @@ printNames(names: "Angelica", "Andie", "Angel")
 
 print("Angelica", "Andie", "Angel")
 
-// -> WRITING THOWING FUNCTIONS
+// -> WRITING THROWING FUNCTIONS
 
 enum PasswordError: Error {
     case obvious(error: String)
@@ -111,5 +111,6 @@ func doubleInPlace(number: inout Int) {
 
 var myNum = 10
 doubleInPlace(number: &myNum)
+
 
 //: [Next](@next)

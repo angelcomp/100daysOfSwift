@@ -151,3 +151,19 @@ Authored by:
    - Protocol extensions
    - Protocol-oriented programming
 </details>
+
+## Day 12: Optionals
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Handling missing data
+   - Unwrapping optionals
+   - Unwrapping with guard
+   - Force unwrapping
+   - Implicitly unwrapped optionals
+   - Nil coalescing
+   - Optional chaining
+   - Optinional try
+   - Failable initializers
+   - Typecasting
+</details>

@@ -62,14 +62,14 @@ func travel() -> (String) -> Void {
 let result = travel()
 result("London")
 
-let result2 = travel()("London")
+travel()("London")
 
 
 // -> Capturing values
 
 func travel2() -> (String) -> Void {
     var counter = 1
-    
+    print("a")
     return {
         print("\(counter). I'm going to \($0)")
         counter += 1
