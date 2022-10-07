@@ -167,3 +167,18 @@ Authored by:
    - Failable initializers
    - Typecasting
 </details>
+
+## Day 13: Swift review, day one
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Variables and constants
+   - Types of Data
+   - Operators
+   - String interpolation
+   - Arrays
+   - Dictionaries
+   - Conditional statements
+   - Loops
+   - Switch case
+</details>
