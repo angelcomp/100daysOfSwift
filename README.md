@@ -182,3 +182,16 @@ Authored by:
    - Loops
    - Switch case
 </details>
+
+## Day 14: Swift review, day two
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Functions
+   - Optionals
+   - Optional chaining
+   - Enumerations
+   - Structs
+   - Classes
+   
+</details>
