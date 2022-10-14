@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
     <pages>
         <page name='day001'/>
         <page name='day002'/>
@@ -15,5 +15,6 @@
         <page name='day012'/>
         <page name='day013-review'/>
         <page name='day014-review'/>
+        <page name='day015-review'/>
     </pages>
 </playground>
