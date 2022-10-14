@@ -195,3 +195,15 @@ Authored by:
    - Classes
    
 </details>
+
+## Day 15: Swift review, day three
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Properties
+   - Static properties and methods
+   - Access control
+   - Polymorphism and typecasting
+   - Closures
+
+</details>
