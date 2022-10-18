@@ -207,3 +207,13 @@ Authored by:
    - Closures
 
 </details>
+
+## Day 16: Project 1, part one
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Setting up Xcode Project
+   - Listing images with FileManager
+   - Designing our interface
+
+</details>
