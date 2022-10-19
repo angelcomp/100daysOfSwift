@@ -208,12 +208,22 @@ Authored by:
 
 </details>
 
-## Day 16: Project 1, part one
+## Day 16: Project 1, part one: Storm Viewer
   <details>
   <summary>Click to see the topics!</summary>
   
    - Setting up Xcode Project
    - Listing images with FileManager
    - Designing our interface
+
+</details>
+
+## Day 17: Project 1, part two: Storm Viewer
+  <details>
+  <summary>Click to see the topics!</summary>
+  
+   - Building a detail screen
+   - Loading images with UIImage
+   - Final tweaks: hidesBarsOnTap, safe area margins
 
 </details>
