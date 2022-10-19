@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		893BFB1A29006EB900C49DA5 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 893BFB1929006EB900C49DA5 /* DetailViewController.swift */; };
 		894216F728FD88D70053A25E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894216F628FD88D70053A25E /* AppDelegate.swift */; };
 		894216F928FD88D70053A25E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894216F828FD88D70053A25E /* SceneDelegate.swift */; };
 		894216FB28FD88D70053A25E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894216FA28FD88D70053A25E /* ViewController.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		893BFB1929006EB900C49DA5 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		894216F328FD88D70053A25E /* Storm Viewer - Project One.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Storm Viewer - Project One.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		894216F628FD88D70053A25E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		894216F828FD88D70053A25E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				8942170128FD88DB0053A25E /* LaunchScreen.storyboard */,
 				8942170428FD88DB0053A25E /* Info.plist */,
 				8942170A28FD8C3D0053A25E /* Content */,
+				893BFB1929006EB900C49DA5 /* DetailViewController.swift */,
 			);
 			path = "Storm Viewer - Project One";
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 				894216FB28FD88D70053A25E /* ViewController.swift in Sources */,
 				894216F728FD88D70053A25E /* AppDelegate.swift in Sources */,
 				894216F928FD88D70053A25E /* SceneDelegate.swift in Sources */,
+				893BFB1A29006EB900C49DA5 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
