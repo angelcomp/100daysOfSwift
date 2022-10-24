@@ -212,43 +212,29 @@ Authored by:
   <details>
   <summary>Click to see the topics!</summary>
     
-    ### Day 16: Project 1, part one - Storm Viewer
-      <details>
-      <summary>Click to see the topics!</summary>
-      
+    Day 16: Project 1, part one
        - Setting up Xcode Project
        - Listing images with FileManager
        - Designing our interface
 
-    </details>
-
-    ### Day 17: Project 1, part two - Storm Viewer
-      <details>
-      <summary>Click to see the topics!</summary>
-      
+    Day 17: Project 1, part two
        - Building a detail screen
        - Loading images with UIImage
        - Final tweaks: hidesBarsOnTap, safe area margins
 
-    </details>
-
-    ### Day 18: Project 1, part three - Storm Viewer
-      <details>
-      <summary>Click to see the topics!</summary>
-      
+    Day 18: Project 1, part three
        - Wrap up, challenge
        - Review for Project 1: Storm Viewer
 
-    </details>
-
   </details>
 
-## Day 19: Project 2, part one - Guess the flag
+## Day 19~21: Project 2 - Guess the flag
   <details>
   <summary>Click to see the topics!</summary>
   
-   - Setting up
-   - Designing your layout
-   - Making the basic game work: UIButton and CALayer
+    Day 19: Project 2, part one
+      - Setting up
+      - Designing your layout
+      - Making the basic game work: UIButton and CALayer
 
 </details>
