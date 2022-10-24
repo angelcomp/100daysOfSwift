@@ -236,5 +236,9 @@ Authored by:
       - Setting up
       - Designing your layout
       - Making the basic game work: UIButton and CALayer
+      
+    Day 20: Project 2, part two
+      - Guess which flag: random numbers
+      - From outlets to actions: creating an IBAction
 
 </details>
