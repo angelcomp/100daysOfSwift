@@ -4,7 +4,6 @@
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
-        <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -17,40 +16,30 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LEE-bM-qIB">
-                                <rect key="frame" x="95" y="100" width="200" height="100"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="100" id="bej-8i-C57"/>
-                                </constraints>
+                                <rect key="frame" x="83" y="111" width="224" height="114"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" image="france"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2Gk-cB-5ts">
-                                <rect key="frame" x="95" y="230" width="200" height="100"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="100" id="Ned-OU-is3"/>
-                                </constraints>
+                                <rect key="frame" x="83" y="245" width="224" height="114"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" image="germany"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UPj-lF-njl">
-                                <rect key="frame" x="95" y="360" width="200" height="100"/>
+                                <rect key="frame" x="83" y="379" width="224" height="114"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" image="spain"/>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="UPj-lF-njl" secondAttribute="bottom" constant="350" id="4j4-EY-vD0"/>
-                            <constraint firstItem="LEE-bM-qIB" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Ax8-Yu-dcQ"/>
-                            <constraint firstItem="LEE-bM-qIB" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="95" id="Eaf-mO-ICd"/>
-                            <constraint firstItem="LEE-bM-qIB" firstAttribute="leading" secondItem="2Gk-cB-5ts" secondAttribute="leading" id="FJM-gy-TsY"/>
-                            <constraint firstItem="2Gk-cB-5ts" firstAttribute="top" secondItem="LEE-bM-qIB" secondAttribute="bottom" constant="30" id="Nxx-fN-lkf"/>
-                            <constraint firstItem="2Gk-cB-5ts" firstAttribute="centerX" secondItem="LEE-bM-qIB" secondAttribute="centerX" id="OLj-tp-zK9"/>
-                            <constraint firstItem="2Gk-cB-5ts" firstAttribute="leading" secondItem="UPj-lF-njl" secondAttribute="leading" id="Spy-Ix-3Q9"/>
-                            <constraint firstItem="UPj-lF-njl" firstAttribute="centerX" secondItem="2Gk-cB-5ts" secondAttribute="centerX" id="bO0-qr-WVp"/>
-                            <constraint firstItem="LEE-bM-qIB" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="9" id="bZn-Ok-TP1"/>
-                            <constraint firstItem="UPj-lF-njl" firstAttribute="top" secondItem="2Gk-cB-5ts" secondAttribute="bottom" constant="30" id="ySn-zr-gSg"/>
+                            <constraint firstItem="LEE-bM-qIB" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="9s3-vQ-lIK"/>
+                            <constraint firstItem="LEE-bM-qIB" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="Fpr-0V-rio"/>
+                            <constraint firstItem="2Gk-cB-5ts" firstAttribute="top" secondItem="LEE-bM-qIB" secondAttribute="bottom" constant="20" id="Hq9-Vo-5UA"/>
+                            <constraint firstItem="UPj-lF-njl" firstAttribute="top" secondItem="2Gk-cB-5ts" secondAttribute="bottom" constant="20" id="IvJ-lK-Fvb"/>
+                            <constraint firstItem="2Gk-cB-5ts" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="nsC-pt-8Qa"/>
+                            <constraint firstItem="UPj-lF-njl" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="sfA-Cl-XDl"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="Bzn-Wp-zAe"/>
@@ -87,8 +76,5 @@
         <image name="france" width="200" height="100"/>
         <image name="germany" width="200" height="100"/>
         <image name="spain" width="200" height="100"/>
-        <systemColor name="systemBackgroundColor">
-            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-        </systemColor>
     </resources>
 </document>
